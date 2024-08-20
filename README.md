@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-1. Starting the course
+1. First test repo on the Ruby Dev course
